@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Nicolas Perez, un apasionado desarrollador de software de 25 años con experiencia en varias áreas clave de la programación. Mi principal enfoque se encuentra en el desarrollo en Java, donde he trabajado en una variedad de proyectos emocionantes. Además, tengo sólidos conocimientos en el desarrollo frontend, utilizando tecnologías como HTML, CSS y JavaScript para crear interfaces de usuario atractivas y funcionales. Además, tengo experiencia en el diseño y la gestión de bases de datos, lo que me permite crear soluciones sólidas y escalables.<br><br>Me encanta colaborar en proyectos desafiantes y aprender nuevas tecnologías para mejorar mis habilidades. Estoy constantemente buscando oportunidades para crecer como desarrollador y contribuir al mundo del software de manera significativa. ¡No dudes en contactarme para colaboraciones, discusiones técnicas o simplemente para charlar sobre desarrollo de software!
+¡Hola! Soy Nicolas Perez
 
 
 # 💻 Tech Stack:
